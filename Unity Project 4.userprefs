@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu\editor.js">
+    <Files>
+      <File FileName="Assets\Scripts\Player\megaAttack.js" Line="11" Column="8" />
+      <File FileName="Assets\Scripts\Level\levelLoadSolo.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu\editor.js" Line="304" Column="48" />
+      <File FileName="Assets\Scripts\Player\mega.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Événement\text.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
